@@ -1,6 +1,6 @@
 # Dummy 13 Assembly Guide
 
-Welcome to Dummy 13 Assembly Guide. I did not create the model just hosting the instructions for firends I have gifted this model too. Let me know if you have any trouble putting the model together.
+Welcome to the Dummy 13 Assembly Guide! This 3D-printed robot is assembled from multiple parts, and I’m here to support you along the way. If you run into broken pieces, need replacements, or want alternate parts (like different hands) printed, just let me know—I’m happy to help. I hope you enjoy building your Dummy 13 as much as I’ve enjoyed sharing it with you!
 
 ## Steps
 ### 1
